@@ -5,7 +5,7 @@ All NATIONAL / INTERNATIONAL Level coding competitions participated
 
 2.  <b> TCS </b> CodeVita Global Qualifier Rank <b> 974 / 10000 (Stage2) </b> 2020
 
-3.  <b> CodingNinjas </b> Ninja Hire 2.0 Junior (2nd & 3rd year) India Rank <b> 463 / 7000 </b> 2020 Certified
+3.  <b> CodingNinjas </b> Ninja Hire 2.0 Junior India Rank <b> 463 / 7000 </b> 2020 Certified
 
 4.  <b> HackerEarth </b> C++ assessment rank <b> 78 / 1015 </b> 2020 Certified
 
