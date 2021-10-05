@@ -1,9 +1,9 @@
 # All-Coding-Competitions-
 All NATIONAL / INTERNATIONAL Level coding competitions participated
 
-1.  <b> Facebook </b> Hacker Cup Global Rank <b> 2869 / 14000 (Stage2) </b> 2020
+1.  <b> Facebook </b> Hacker Cup Global Rank <b> 2869 / 14000 (Stage2) </b> 2020 (Stage1) 33000
 
-2.  <b> TCS </b> CodeVita Global Qualifier Rank <b> 974 / 10000 (Stage2) </b> 2020
+2.  <b> TCS </b> CodeVita Global Qualifier Rank <b> 974 / 10000 (Stage2) </b> 2020 (Stage1) 2.3 Lakh+
 
 3.  <b> CodingNinjas </b> Ninja Hire 2.0 Junior India Rank <b> 463 / 7000 </b> 2020 Certified
 
