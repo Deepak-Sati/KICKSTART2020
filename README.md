@@ -1,5 +1,5 @@
 # All-Coding-Competitions-
-All NATIONAL / INTERNATIONAL Level coding competitions participated
+All global coding competitions participated
 
 1.  <b> Facebook </b> Hacker Cup Global Rank <b> 2869 / 14000 (Stage2) </b> 2020 (Stage1) 33000
 
