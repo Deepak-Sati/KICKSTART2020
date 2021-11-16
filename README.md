@@ -1,9 +1,9 @@
 # All-Coding-Competitions-
 All global coding competitions participated
 
-1.  <b> Codechef </b> Snackdown Qualifier Rank <b> 210 / 31000 </b> 2021
+1.  <b> Codechef </b> Snackdown Qualifier Global Rank <b> 210 / 31000 </b> 2021
 
-2.  <b> Codechef </b> Snackdown Round 1A Rank <b> 63 / 18000 </b> 2021
+2.  <b> Codechef </b> Snackdown Round 1A Global Rank <b> 63 / 18000 </b> 2021
 
 3.  <b> Facebook </b> Hacker Cup Global Rank <b> 2869 / 14000 (Stage2) </b> 2020 (Stage1) 33000
 
