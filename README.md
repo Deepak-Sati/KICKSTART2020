@@ -19,4 +19,4 @@ All global coding competitions participated
 
 9.  Google Code jam Global Qualification round Points <b> 48 / 101 </b> 2021 Certified
 
- 
+10. <b> IMO </b> Math Olympiad <b> 1816 </b> international rank 2017 
