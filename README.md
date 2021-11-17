@@ -5,6 +5,8 @@ All global coding competitions participated
 
 2.  <b> Codechef </b> Snackdown Round 1A Global Rank <b> 63 / 18000 </b> 2021
 
+3. <b> Codechef </b> September challenge Global Rank <b> 357 / 20000 </b> 2020
+
 3.  <b> Facebook </b> Hacker Cup Global Rank <b> 2869 / 14000 (Stage2) </b> 2020 (Stage1) 33000
 
 4.  <b> TCS </b> CodeVita Global Qualifier Rank <b> 974 / 10000 (Stage2) </b> 2020 (Stage1) 2.3 Lakh+
