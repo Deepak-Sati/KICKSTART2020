@@ -1,5 +1,5 @@
-# All-Competitions-Participated
-all global competitions participated
+# All-Contests-Participated
+all global contests participated
 
 1.  <b> Codechef </b> Snackdown Qualifier Global Rank <b> 210 / 31000 </b> 2021
 
