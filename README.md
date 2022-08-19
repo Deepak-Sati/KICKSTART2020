@@ -24,14 +24,14 @@ all global contests participated
 
 all coding handles
 
-1. https://www.codechef.com/users/dpkcode123
+1.  https://www.codechef.com/users/dpkcode123
 
-2. https://codeforces.com/profile/deepak719 
+2.  https://codeforces.com/profile/deepak719 
 
-3. https://www.hackerrank.com/deepaksati719
+3.  https://www.hackerrank.com/deepaksati719
 
-4. https://www.hackerearth.com/@deepak1948
+4.  https://www.hackerearth.com/@deepak1948
 
-5. https://codeforces.com/profile/Register_now
+5.  https://codeforces.com/profile/Register_now
 
-6. https://www.codechef.com/users/timep719
+6.  https://www.codechef.com/users/timep719
