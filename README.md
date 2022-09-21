@@ -22,16 +22,4 @@ all global contests participated
 
 9.  Google Code jam Global Qualification round Points <b> 48 / 101 </b> 2021 Certified
 
-all coding handles
 
-1.  https://www.codechef.com/users/dpkcode123
-
-2.  https://codeforces.com/profile/deepak719 
-
-3.  https://www.hackerrank.com/deepaksati719
-
-4.  https://www.hackerearth.com/@deepak1948
-
-5.  https://codeforces.com/profile/Register_now
-
-6.  https://www.codechef.com/users/timep719
